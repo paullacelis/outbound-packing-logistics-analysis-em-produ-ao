@@ -35,9 +35,6 @@ A base simulada tem mais de 90.000 registros :
 * **SQL:** Consultas de junção (*JOINs*), agregações por bancada/turno e cálculo condicional de SLA.
 * **Power BI:** Desenvolvimento de dashboards de controle operacional e monitoramento de KPIs.
 
----
-![Dashboard Outbound Pacing](dashboard/primeiro%20dashboard%20outbound.png)
----
 ## 📌 Histórico de Versões e Atualizações
 
 ### v1.0 - Monitoramento Inicial e SLA
@@ -49,6 +46,9 @@ A base simulada tem mais de 90.000 registros :
 * Ajuste dinâmico da fórmula de Tempo Alvo considerando a restrição física de 40 bancadas.
 * Rebalanceamento de carga e simulação de Pacing.
 * ---
+---
+![Dashboard Outbound Pacing](dashboard/primeiro%20dashboard%20outbound.png)
+---
 ## 📁 Estrutura do Repositório
 ```text
 ├── data/
