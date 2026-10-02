@@ -36,7 +36,7 @@ A base simulada tem mais de 90.000 registros :
 * **Power BI:** Desenvolvimento de dashboards de controle operacional e monitoramento de KPIs.
 
 ---
-![Dashboard Outbound Pacing](dashboard/primeiro dashboard outbound.png)
+![Dashboard Outbound Pacing](dashboard/primeiro%20dashboard%20outbound.png)
 ---
 
 ## 📁 Estrutura do Repositório
