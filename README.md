@@ -38,7 +38,17 @@ A base simulada tem mais de 90.000 registros :
 ---
 ![Dashboard Outbound Pacing](dashboard/primeiro%20dashboard%20outbound.png)
 ---
+## 📌 Histórico de Versões e Atualizações
 
+### v1.0 - Monitoramento Inicial e SLA
+* Criação dos KPIs de Tempo Médio Real, Bancadas Necessárias e Tempo Alvo.
+* Gráfico de linhas para comparação individual de ciclo por bancada.
+* Formatação condicional em vermelho para alertas de risco de atraso.
+
+### v2.0 - [Próxima Fase]
+* Ajuste dinâmico da fórmula de Tempo Alvo considerando a restrição física de 40 bancadas.
+* Rebalanceamento de carga e simulação de Pacing.
+* ---
 ## 📁 Estrutura do Repositório
 ```text
 ├── data/
